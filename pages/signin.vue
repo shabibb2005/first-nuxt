@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <div class="overflow-x-hidden w-100vw">
     <div class="row auth-page">
       <div class="col-lg-6 pt-5">
@@ -225,4 +225,4 @@ a.btn1:hover {
     flex-direction: column;
   }
 }
-</style>
+</style> -->
